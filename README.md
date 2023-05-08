@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 PhD in Mechanical Engineering from University of Massachusetts Lowell
+- 🌱 Constantly learning to write better code
+- 🔭 Curious abouth everything Engineering related
+- 🍖 Love grilling and
+- 🎷 Playing saxophone
